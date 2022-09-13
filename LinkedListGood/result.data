@@ -1,0 +1,7 @@
+AVG 16: 1091.87
+VAR 16: 254541
+AVG 15: 962.332
+OUTLIER 20 3 20: 0 cells are removed.
+OUTLIER 20 2 20: 2 cells are removed.
+OUTLIER 20 1 20: 14 cells are removed.
+VAR 20: 33040.3
